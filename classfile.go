@@ -1,3 +1,7 @@
+/*
+This is an example of a go+classfile
+go+ version: 1.2.0.pre.1
+*/
 package lss
 
 import "fmt"
